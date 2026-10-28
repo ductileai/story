@@ -4,7 +4,7 @@
 
 You talk to it in plain words. Ask a question and it reads your apps right now and comes back with the answer and the evidence. Describe a job and it writes a step-by-step plan, shows you a test run on sample data, and waits for your approval. From that day on the job runs itself, the same way every time, across the apps you already use, and reports what it did. Your passwords and keys stay locked in a vault. Nothing important happens without a person saying yes. Every run leaves a clear record.
 
-It fits a business of any shape and size: a one-person shop, an agency, a clinic, a distributor, a finance team, a utility. More than 1,000 apps and 5,000 ready-made actions are built in. From $25 a month.
+It fits a business of any shape and size: a one-person shop, an agency, a clinic, a distributor, a finance team, a utility. More than 1,100 apps and 5,700 ready-made actions are built in, and 8,700+ more apps are catalogued, heading for 10,000+. Free to start; paid plans from $19 a month, billed yearly.
 
 ---
 
@@ -24,7 +24,7 @@ Ask a business owner, an operations manager or a finance lead. You hear the same
 
 **"I'm afraid of what it can reach."** To do the work it needs my Stripe key, my Google Workspace admin login and my customers' details. Pasting those into a prompt or a config file is how a business ends up in the news.
 
-So the bold ones hire someone technical, install a code editor and connect an AI assistant to their tools. It works, for that person, while they sit at the keyboard. Everyone else waits. Waiting is also a decision. It costs a salary a month.
+So the bold ones bring in someone technical, install a code editor and connect an AI assistant to their tools. It works, for that person, while they sit at the keyboard. Everyone else waits. Waiting is also a decision. It costs a salary a month.
 
 ## The problem in one picture
 
@@ -33,7 +33,7 @@ flowchart TD
     B["A business of any shape and size<br/>with a job done by hand every day"]
     B --> Q{"How do we use AI for this?"}
 
-    Q -->|"Hire or borrow someone technical"| T["Today's AI coding tools<br/>Cursor · Claude Code · Codex"]
+    Q -->|"Bring in someone technical"| T["Today's AI coding tools"]
     Q -->|"Nobody technical available"| W["Wait"]
 
     T --> I["Code editor and terminal<br/>a language the owner does not speak"]
@@ -98,7 +98,7 @@ Here is how it feels from your side of the desk.
 
 **You describe the job in plain words.** "Every Monday, find invoices more than thirty days overdue, write a polite reminder for each, and list them for me." No editor. No code. No flowchart. A browser and a sentence, typed or spoken.
 
-**Your companion understands it, once.** In seconds you get a complete plan with every step named. It never invents a step: it works from what it knows about your business and from each app vendor's own documentation, so every step is a real action on a real system. You read it the way you would read a new hire's plan, and change a word if one is wrong.
+**Your companion understands it, once.** In seconds you get a complete plan with every step named. It never invents a step: it works from what it knows about your business and from each app vendor's own documentation, so every step is a real action on a real system. You read it the way you would read a new starter's plan, and change a word if one is wrong.
 
 **You watch it run on sample data.** Nothing is connected. Nothing is at risk. You see exactly what would happen.
 
@@ -110,7 +110,7 @@ Here is how it feels from your side of the desk.
 
 **Every run tells you what it did**, step by step, in words the person who asked can read and words an auditor can read. Repeatable. Traceable. Boring, on purpose.
 
-**And it is cheap to run**, because the expensive part, the thinking, happened once. From $25 a month.
+**And it is cheap to run**, because the expensive part, the thinking, happened once. Paid plans from $19 a month, billed yearly.
 
 ## Ask it anything about your business
 
@@ -126,7 +126,7 @@ A question is read-only: nothing is changed, and every answer carries its eviden
 ## Everyday things it does
 
 - **Reads the web for you.** Point it at a page, a price list, a public register or a competitor's catalogue. It fetches the page now, reads it, and hands the facts to the next step or to you.
-- **Keeps your second brain.** Everything you tell it about your business, every document you give it and every answer it has already given stay in your own workspace. Answers come from your facts, not from the internet's guesses, and cite where each fact came from.
+- **Keeps your second brain.** Everything you tell it about your business, every document you give it and every answer it has already given stay with your business. Answers come from your facts, not from the internet's guesses, and cite where each fact came from.
 - **Writes the email and sends it.** A reminder, a quote, a weekly summary, drafted from your data and sent through Gmail to the right person, after you approve.
 - **Tells the team.** A line in Slack or Microsoft Teams when an order lands, a payment fails or a job finishes. A message on WhatsApp, Telegram or by text when it matters more.
 - **Fills the spreadsheet.** Rows into Excel or Google Sheets, the month-end sheet rebuilt from live figures, a table you can hand to finance.
@@ -134,7 +134,7 @@ A question is read-only: nothing is changed, and every answer carries its eviden
 
 ## What is built in today
 
-- **1,000+ apps and 5,000+ ready-made actions**: Salesforce, Stripe, Shopify, HubSpot, Google Workspace, Xero, QuickBooks, ClickUp, Slack, Microsoft Teams and many more. Every action is checked against the app vendor's own documentation before it ships.
+- **1,100+ apps and 5,700+ ready-made actions**, with 8,700+ more catalogued and heading for 10,000+: Salesforce, Stripe, Shopify, HubSpot, Google Workspace, Xero, QuickBooks, ClickUp, Slack, Microsoft Teams and many more. Every action is checked against the app vendor's own documentation before it ships.
 - **Five ways a job can start**: a webhook from another system, a form someone fills in, a change in an app, a schedule, or a question you ask.
 - **Runs where you need it**: in our cloud, or inside your own network when the data must not leave.
 
@@ -174,8 +174,8 @@ Add your website to the form's allowed list first, or the page will refuse to lo
 
 ## Start with one Monday
 
-Go to [ductileai.com](https://www.ductileai.com), open a workspace, and bring one job you do by hand every week. Ten minutes later it is running. From $25 a month, and the first job costs nothing to set up.
+Go to [ductileai.com](https://www.ductileai.com), start free, and give AnnE one job you do by hand every week. Ten minutes later it is running. Paid plans from $19 a month, billed yearly, and the first job costs nothing to set up.
 
-**[ductileai.com](https://www.ductileai.com)** · [1,000+ apps](https://www.ductileai.com/dapps/) · [@ductileai](https://github.com/ductileai)
+**[ductileai.com](https://www.ductileai.com)** · [1,100+ apps](https://www.ductileai.com/dapps/) · [for consultants](https://www.ductileai.com/consultants/) · [@ductileai](https://github.com/ductileai)
 
 <sub>© 2026 Ductile AI. Available now at ductileai.com.</sub>
