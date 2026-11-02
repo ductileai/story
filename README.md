@@ -4,7 +4,7 @@
 
 You talk to it in plain words. Ask a question and it reads your apps right now and comes back with the answer and the evidence. Describe a job and it writes a step-by-step plan, shows you a test run on sample data, and waits for your approval. From that day on the job runs itself, the same way every time, across the apps you already use, and reports what it did. Your passwords and keys stay locked in a vault. Nothing important happens without a person saying yes. Every run leaves a clear record.
 
-It fits a business of any shape and size: a one-person shop, an agency, a clinic, a distributor, a finance team, a utility. More than 1,100 apps and 5,700 ready-made actions are built in, and 8,700+ more apps are catalogued, heading for 10,000+. Free to start; paid plans from $19 a month, billed yearly.
+It fits a business of any shape and size: a one-person shop, an agency, a clinic, a distributor, a finance team, a utility. More than 2,000 apps are catalogued, with more than 60,000 ready-made actions. Free to start; paid plans from $19 a month, billed yearly.
 
 ---
 
@@ -134,7 +134,7 @@ A question is read-only: nothing is changed, and every answer carries its eviden
 
 ## What is built in today
 
-- **1,100+ apps and 5,700+ ready-made actions**, with 8,700+ more catalogued and heading for 10,000+: Salesforce, Stripe, Shopify, HubSpot, Google Workspace, Xero, QuickBooks, ClickUp, Slack, Microsoft Teams and many more. Every action is checked against the app vendor's own documentation before it ships.
+- **2,000+ apps catalogued and 60,000+ ready-made actions**: Salesforce, Stripe, Shopify, HubSpot, Google Workspace, Xero, QuickBooks, ClickUp, Slack, Microsoft Teams and many more. Every action is built from the app maker's own API definition and documentation.
 - **Five ways a job can start**: a webhook from another system, a form someone fills in, a change in an app, a schedule, or a question you ask.
 - **Runs where you need it**: in our cloud, or inside your own network when the data must not leave.
 
@@ -176,6 +176,6 @@ Add your website to the form's allowed list first, or the page will refuse to lo
 
 Go to [ductileai.com](https://www.ductileai.com), start free, and give AnnE one job you do by hand every week. Ten minutes later it is running. Paid plans from $19 a month, billed yearly, and the first job costs nothing to set up.
 
-**[ductileai.com](https://www.ductileai.com)** · [1,100+ apps](https://www.ductileai.com/dapps/) · [for consultants](https://www.ductileai.com/consultants/) · [@ductileai](https://github.com/ductileai)
+**[ductileai.com](https://www.ductileai.com)** · [2,000+ apps catalogued](https://www.ductileai.com/product/apps/) · [for consultants](https://www.ductileai.com/consultants/) · [@ductileai](https://github.com/ductileai)
 
 <sub>© 2026 Ductile AI. Available now at ductileai.com.</sub>
