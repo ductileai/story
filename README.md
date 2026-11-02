@@ -4,7 +4,7 @@
 
 You talk to it in plain words. Ask a question and it reads your apps right now and comes back with the answer and the evidence. Describe a job and it writes a step-by-step plan, shows you a test run on sample data, and waits for your approval. From that day on the job runs itself, the same way every time, across the apps you already use, and reports what it did. Your passwords and keys stay locked in a vault. Nothing important happens without a person saying yes. Every run leaves a clear record.
 
-It fits a business of any shape and size: a one-person shop, an agency, a clinic, a distributor, a finance team, a utility. More than 2,000 apps are catalogued, with more than 60,000 ready-made actions, and the plan is to enable access to 10,000+ apps. Free to start; paid plans from $19 a month, billed yearly.
+It fits a business of any shape and size: a one-person shop, an agency, a clinic, a distributor, a finance team, a utility. More than 2,000 apps are catalogued, with more than 60,000 ready-made actions, and our aim is to bring 10,000+ apps within reach. Free to start; paid plans from $19 a month, billed yearly.
 
 ---
 
